@@ -47,3 +47,19 @@ Paparan di atas adalah fitur-fitur utama yang dimiliki oleh aplikasi mobile dan 
 <img src="https://github.com/rezafaisal/eVitaCareWeb/blob/main/images/evitacare_web-pasien-04.JPG" width="800">
 
 ## Installasi
+Langkah-langkah instalasi:
+<ol>
+    <li>Download Laravel Composer</li>
+    <li>Salin source code dari Github ini ke folder htdoc pada XAMPP</li>
+    <li>Buka CMD pada Windows</li>
+    <li>
+        Jalankan perintah berikut:
+        <ul>
+            <li>composer install</li>
+            <li>php artisan key:generate</li>
+            <li>php artisan migrate</li>
+            <li>php artisan db:seed</li>
+            <li>php artisan serve</li>
+        </ul>
+    </li>
+</ol>
