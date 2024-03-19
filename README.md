@@ -1,4 +1,5 @@
 # eVitaCare Web
+## Pendahuluan
 <p>
 eVitaCare adalah sistem terintegrasi antara wearable sensor kesehatan berupa jam tangan, aplikasi mobile, dan aplikasi web. eVitaCare bertujuan menghitung Early Warning Score (EWS) dari kondisi vital pasien dan membagikannya sehingga dapat dipantau oleh dokter dan perawat serta keluarga pasien.
 </p>
@@ -22,3 +23,10 @@ Paparan di atas adalah fitur-fitur utama yang dimiliki oleh aplikasi mobile dan 
     <li>Laporan.</li>
 </ul>
 </p>
+
+## Tangkap Layar Aplikasi
+### Dokter
+
+### Pasien
+
+## Installasi
