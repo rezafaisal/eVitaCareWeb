@@ -35,7 +35,9 @@ Paparan di atas adalah fitur-fitur utama yang dimiliki oleh aplikasi mobile dan 
 <img src="https://github.com/rezafaisal/eVitaCareWeb/blob/main/images/evitacare_web-06.JPG" width="800">
 
 <img src="https://github.com/rezafaisal/eVitaCareWeb/blob/main/images/evitacare_web-07.JPG" width="800">
+
 ### Pasien
+
 <img src="https://github.com/rezafaisal/eVitaCareWeb/blob/main/images/evitacare_web-pasien-01.JPG" width="800">
 
 <img src="https://github.com/rezafaisal/eVitaCareWeb/blob/main/images/evitacare_web-pasien-02.JPG" width="800">
