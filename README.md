@@ -6,10 +6,11 @@ eVitaCare adalah sistem terintegrasi antara wearable sensor kesehatan berupa jam
 <p>
 Agar informasi kondisi vital tersebut dapat dilihat dari mana saja dan kapan saja oleh dokter dan perawat. Maka aplikasi mobile akan mengirim informasi dari seluruh pasien yang menggunakan smartwatch dan aplikasi mobile ke web server. Akhirnya dokter dan perawat dapat memantau kondisi banyak pasien lewat dashboard EWS pada aplikasi web eVitaCare seperti pada Gambar 5.4. Fitur ini sangat membantu dokter dan perawat untuk memantau kondisi pasien. Jika EWS seorang pasien berada pada kondisi resiko tinggi, maka dokter dapat memutuskan untuk memantau pasien dengan lebih ketat, memberikan tindakan stabilisasi, dan tindakan lainnya
 </p>
+<img src="https://github.com/rezafaisal/eVitaCareWeb/blob/main/images/evitacare_web-01.JPG" width="800">
 <p>
 Sedangkan keluarga pasien dapat menggunakan aplikasi web untuk melihat kondisi pasien secara online juga seperti ditunjukkan pada gambar sebelah kiri di bawah ini. Fitur ini sangat bermanfaat bagi orang yang memantau anaknya yang sedang sakit, atau orang tuanya yang sedang dirawat. Pasien atau keluarganya juga dapat berkomunikasi untuk bertanya atau konsultasi dengan dokter dan perawat pada aplikasi web lewat fitur chat yang diperlihatkan pada gambar di bawah ini bagian sebelah kanan.
 </p>
-
+<img src="https://github.com/rezafaisal/eVitaCareWeb/blob/main/images/evitacare_web-02.JPG" width="800">
 <p>
 Paparan di atas adalah fitur-fitur utama yang dimiliki oleh aplikasi mobile dan aplikasi web eVitaCare. Selain itu pada aplikasi web eVitaCare terdapat fitur-fitur penting lainnya, yaitu:
 <ul>
