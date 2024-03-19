@@ -12,10 +12,12 @@ Sedangkan keluarga pasien dapat menggunakan aplikasi web untuk melihat kondisi p
 
 <p>
 Paparan di atas adalah fitur-fitur utama yang dimiliki oleh aplikasi mobile dan aplikasi web eVitaCare. Selain itu pada aplikasi web eVitaCare terdapat fitur-fitur penting lainnya, yaitu:
--	Pengelolaan data master.
--	Pengelolan user dan pasien.
--	Registrasi dan pengelolaan profile pasien.
--	History kondisi pasien.
--	Pendaftaran pemantauan pasien.
--	Laporan.
+<ul>
+    <li>Pengelolaan data master.</li>
+    <li>Pengelolan user dan pasien.</li>
+    <li>Registrasi dan pengelolaan profile pasien.</li>
+    <li>History kondisi pasien.</li>
+    <li>Pendaftaran pemantauan pasien.</li>
+    <li>Laporan.</li>
+</ul>
 </p>
